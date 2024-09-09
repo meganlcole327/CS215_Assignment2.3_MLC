@@ -39,8 +39,5 @@ public class LinkedList<T> {
 	        length++;
 	    } //end addNose
 
-		
-
-//	} //end main
 
 } //end class
